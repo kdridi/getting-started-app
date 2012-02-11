@@ -22,7 +22,7 @@
 					</fo:block>
 				</fo:static-content>
 				<fo:flow flow-name="xsl-region-body">
-					<fo:block font-size="36pt" space-before.optimum="24pt" text-align="center"> My second XML Pipeline 
+					<fo:block font-size="36pt" space-before.optimum="24pt" text-align="center"> My second XML Pipeline
 					</fo:block>
 					<fo:block font-size="12pt" space-before.optimum="12pt" text-align="center">
 						<xsl:value-of select="/content" />
