@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<demo>
+	<module>com.mycompany:myBlock1</module>
+	<spring>#message</spring>
+</demo>

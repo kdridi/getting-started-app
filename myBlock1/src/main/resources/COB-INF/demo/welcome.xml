@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<content>
+	<h1>Apache Cocoon: Welcome</h1>
+	<p>
+		This block
+		<strong>com.mycompany:myBlock1</strong>
+		was created by the Cocoon block archetype.
+	</p>
+	<p />
+	<p>
+		<a href="myFirstPipeline">Link</a>
+		to the output of myFirstPipeline.
+	</p>
+	<p />
+	<p>
+		<a href="mySecondPipeline">Link</a>
+		to the output of mySecondPipeline.
+	</p>
+	<p />
+	<p>
+		<a href="myThirdPipeline">Link</a>
+		to the output of myThirdPipeline.
+	</p>
+	<p />
+	<p>
+		<a href="callingBlock2">Link</a>
+		to the output of callingBlock2.
+	</p>
+	<p />
+	<p>
+		<a href="callingTransformationService">Link</a>
+		to the output of callingTransformationService.
+	</p>
+	<p />
+	<p>
+		<a href="spring-bean">Link</a>
+		to the output of a simple Flowscript that accesses a Spring bean.
+	</p>
+</content>
